@@ -60,7 +60,6 @@ The statistical study design has the following:
 - A statistical test is described to test the hypothesis
 
 This study would involve collecting data on MechaCar and its comparable models across several different manufacturers over the last 3 years.
-
 * What are the competitions' comparable models, 
 * Which cars will MechaCar be competing with head-to-head? which cars will be included in the study?
 * Which factors will look at the study to determine the relevant to selling price?
