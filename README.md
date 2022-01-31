@@ -12,8 +12,6 @@ In this challenge, you’ll help Jeremy and the data analytics team do the follo
 ## Linear Regression to Predict MPG
 ### Deliverable Requirements:
 **Resulting Model:** 
-
-### mpg =  (6.267)**vehicle_length** + (0.0012)**vehicle_weight** + (0.0688)**spoiler_angle** + (3.546)**ground_clearance** + (-3.411)**AWD** + (-104.0)
 				
 Statistical Summary:
 ![d1](https://github.com/emmanuelmartinezs/MechaCar_Statistical_Analysis/blob/main/Resources/Images/linear_regression_d1.png)
@@ -38,12 +36,12 @@ If we remove the less impactful independent variables (vehicle weight, spoiler a
 
 Your `total_summary` dataframe should look like this:
 
-![d1](https://github.com/emmanuelmartinezs/MechaCar_Statistical_Analysis/blob/main/Resources/Images/data-15-total-summary-data-mean-median-variance-sd.png)
+![d1](https://github.com/Anuradha0/MechaCarChallenge/blob/main/Resources/D2.1.png)
 
 4. Write an RScript that creates a `lot_summary` dataframe using the `group_by()` and the `summarize()` functions to group each manufacturing lot by the mean, median, variance, and standard deviation of the suspension coil’s PSI column.
 Your lot_summary dataframe should look like this:
 
-![d1](https://github.com/emmanuelmartinezs/MechaCar_Statistical_Analysis/blob/main/Resources/Images/data-15-manufacturing-lot.png)
+![d1](https://github.com/Anuradha0/MechaCarChallenge/blob/main/Resources/D2.2.png)
 
 5. Save your `MechaCarChallenge.RScript` file to your GitHub repository.
 
