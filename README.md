@@ -34,12 +34,12 @@ If we remove the less impactful independent variables (vehicle weight, spoiler a
 
 Your `total_summary` dataframe should look like this:
 
-![d1](https://github.com/Anuradha0/MechaCarChallenge/blob/main/Resources/D2.1.png)
+![d1](https://github.com/Anuradha0/MechaCarChallenge/blob/main/Resources/D2.4.png)
 
 4. Write an RScript that creates a `lot_summary` dataframe using the `group_by()` and the `summarize()` functions to group each manufacturing lot by the mean, median, variance, and standard deviation of the suspension coil’s PSI column.
 Your lot_summary dataframe should look like this:
 
-![d1](https://github.com/Anuradha0/MechaCarChallenge/blob/main/Resources/D2.2.png)
+![d1](https://github.com/Anuradha0/MechaCarChallenge/blob/main/Resources/D2.3.png)
 
 # Deliverable 3:  
 ### Deliverable Requirements:
